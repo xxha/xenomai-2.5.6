@@ -1,0 +1,1 @@
+irqloop:posix+rtdm+irqbench:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/arm_out/bin/irqloop;popall:control_c

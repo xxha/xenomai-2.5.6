@@ -1,0 +1,2 @@
+#!/bin/sh
+${DESTDIR}/home/xxha/veex/tx300s/psos/xenomai-2.5.6/arm_out/bin/xeno-load `dirname $0` $*

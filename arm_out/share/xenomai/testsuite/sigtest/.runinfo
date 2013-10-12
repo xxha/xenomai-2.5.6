@@ -1,0 +1,1 @@
+sigtest:posix+rtdm+sigtest:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/arm_out/bin/sigtest;popall:control_c

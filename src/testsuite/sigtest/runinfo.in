@@ -1,0 +1,1 @@
+sigtest:posix+rtdm+sigtest:!@XENO_TEST_DIR@/sigtest;popall:control_c

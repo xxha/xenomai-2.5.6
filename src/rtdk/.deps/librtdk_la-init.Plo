@@ -1,0 +1,45 @@
+librtdk_la-init.lo: init.c internal.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/time.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/features.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/sys/cdefs.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/wordsize.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/gnu/stubs.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/include/stddef.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/time.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/types.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/typesizes.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/xlocale.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/sys/time.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/sys/select.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/select.h \
+ /home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/sigset.h
+
+internal.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/time.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/features.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/sys/cdefs.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/wordsize.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/gnu/stubs.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/include/stddef.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/time.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/types.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/typesizes.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/xlocale.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/sys/time.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/sys/select.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/select.h:
+
+/home/xxha/veex/tx300s/cross-tools/arm-fsl-linux-gnueabi/bin/../lib/gcc/arm-fsl-linux-gnueabi/4.4.4/../../../../arm-fsl-linux-gnueabi/include/bits/sigset.h:

@@ -1,0 +1,1 @@
+switchtest:posix+rtdm+switchtest:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/arm_out/bin/switchtest;popall:control_c

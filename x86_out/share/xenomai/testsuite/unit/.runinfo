@@ -1,0 +1,5 @@
+arith:native:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/x86_out/bin/arith;popall:control_c
+wakeup-time:native:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/x86_out/bin/wakeup-time;popall:control_c
+mutex-torture-posix:posix:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/x86_out/bin/mutex-torture-posix;popall:control_c
+mutex-torture-native:native:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/x86_out/bin/mutex-torture-native;popall:control_c
+xnvdso:native:!/home/xxha/veex/tx300s/psos/xenomai-2.5.6/x86_out/bin/xnvdso;popall:control_c
